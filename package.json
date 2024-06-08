@@ -1,0 +1,9 @@
+{
+  "name": "@dumorando/turbowarp-extension-types",
+  "version": "1.0.0",
+  "main": "",
+  "types": "index.d.ts",
+  "author": "dumorando",
+  "license": "Unlicense",
+  "description": "TypeScript and VScode Intellisense for the Turbowarp Extension API"
+}
